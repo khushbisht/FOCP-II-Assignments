@@ -31,7 +31,7 @@ int main() {
         "{name}'s birth certificate is basically an apology letter from the hospital.",
         "If brains were petrol, {name} couldn't power a toy car around a Rupee coin.",
         "{name} asked Siri for directions once. Siri said 'find yourself first'.",
-        "NASA is studying {name} — turns out there IS a black hole with no mass.",
+        "NASA is studying {name} - turns out there IS a black hole with no mass.",
         "{name}'s search history is so embarrassing, their phone takes therapy sessions.",
         "Even {name}'s shadow tried to walk away once. Can't blame it honestly."
     };
@@ -71,7 +71,7 @@ int main() {
 
     // ---- Print the final roast ----
     cout << "\n=============================\n";
-    cout << "   YOUR ROAST IS READY \n";
+    cout << "   YOUR ROAST IS READY!\n";
     cout << "=============================\n";
     cout << roast << "\n";
     cout << "=============================\n\n";
